@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DateConverterLab/DateConverterLab.vcxproj" Id="c446ed42-2cba-48c1-b596-c0735a1a9876" />
+</Solution>

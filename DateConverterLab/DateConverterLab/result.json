@@ -1,0 +1,8 @@
+[
+  {"raw_date": "2025-11-30", "iso_date": "2025-11-30", "is_valid": true, "error": ""},
+  {"raw_date": "30 november 2025", "iso_date": "2025-11-30", "is_valid": true, "error": ""},
+  {"raw_date": "11/30/2025", "iso_date": "2025-11-30", "is_valid": true, "error": ""},
+  {"raw_date": "30-11-2025", "iso_date": "2025-11-30", "is_valid": true, "error": ""},
+  {"raw_date": "invalid date", "iso_date": "", "is_valid": false, "error": "Unknown date format"},
+  {"raw_date": "", "iso_date": "", "is_valid": false, "error": "Empty string"}
+]
